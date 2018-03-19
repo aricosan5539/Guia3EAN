@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Empleado
+comment1.params=
+comment1.target=void\ imprimir()
+comment2.params=nuevoNombre
+comment2.target=void\ asignarNombre(java.lang.String)
+comment3.params=nuevoDepartamento
+comment3.target=void\ asignarDepartamento(java.lang.String)
+comment4.params=nuevaPosici\u00F3n
+comment4.target=void\ asignarPosici\u00F3n(java.lang.String)
+comment5.params=nuevoSalario
+comment5.target=void\ asignarSalario(java.lang.String)
+numComments=6
